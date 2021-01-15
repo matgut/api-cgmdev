@@ -1,0 +1,17 @@
+API de practica con autorizacion y roles.
+
+package utilizados
+
+bcryptjs = encriptar contraaseñas
+cors = permite comunicacion entre servidores
+dotenv = crear variables de entornos
+jsonwebtoken  = modulo de token para autentificacion
+morgan = ver peticiones hacia la API
+helmet = permite mas seguridad al no dar tanta informacion del servidor
+
+DEV
+babel/core = para poder converir codigo de EMC6 para que soporte node
+babel/cli = para poder utilizar babel en la consola de
+babel/node = parapoder utilizar babel en node
+babel/preset-env = utilizar las ultimas caracteristicas de babel especificas
+nodemon = reinicar servidor cuando se ejecute algun cambio
